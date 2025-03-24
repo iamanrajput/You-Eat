@@ -1,6 +1,6 @@
 # YouEat
 
-This project is an interactive front-end website built using React, featuring a user-friendly interface and seamless integration with the Swiggy API. The website displays real-time restaurant data, allowing users to search for and filter restaurants based on their preferences. 
+This project is an interactive front-end website built using React, featuring a user-friendly interface and seamless integration with the Swiggy API. The website displays real-time restaurant data, allowing users to search for and filter restaurants based on their preferences..
 
 ## Features
 
